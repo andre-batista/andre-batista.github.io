@@ -1,0 +1,14 @@
+main:
+  - title: "Posts"
+    url: /posts/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  - title: "Research Interests"
+    url: /research-interests/
+  - title: "Publications"
+    url: /publications/
+  - title: "About"
+    url: /about/
+  
