@@ -76,7 +76,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/andrecbatista"
     - label: "ORCS Lab"
-      Icon: "fab fa-fw fa-university"
+      icon: "fab fa-fw fa-university"
       url: "https://orcslab.github.io/"
 
 footer:
@@ -97,7 +97,7 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/andrecbatista"
     - label: "ORCS Lab"
-      Icon: "fab fa-fw fa-university"
+      icon: "fab fa-fw fa-university"
       url: "https://orcslab.github.io/"
 
 defaults:
