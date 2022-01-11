@@ -67,14 +67,17 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/andre-batista"
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=a00NW34AAAAJ&hl=pt-BR"
     - label: "CV Lattes [PT]"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-certificate"
       url: "http://lattes.cnpq.br/2956055711847042"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/andrecbatista"
+    - label: "ORCS Lab"
+      Icon: "fab fa-fw fa-university"
+      url: "https://orcslab.github.io/"
 
 footer:
   links:
@@ -85,14 +88,17 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/andre-batista"
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=a00NW34AAAAJ&hl=pt-BR"
     - label: "CV Lattes [PT]"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-certificate"
       url: "http://lattes.cnpq.br/2956055711847042"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/andrecbatista"
+    - label: "ORCS Lab"
+      Icon: "fab fa-fw fa-university"
+      url: "https://orcslab.github.io/"
 
 defaults:
   # _posts
