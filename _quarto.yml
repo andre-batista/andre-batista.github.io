@@ -8,12 +8,8 @@ website:
   favicon: favicon.ico
   navbar:
     left:
-      - text: "Blog"
-        href: posts/index.qmd
-      - text: "Interesses de Pesquisa"
-        href: research-interests.qmd
-      - text: "Publicações"
-        href: publications.qmd
+      - text: "Pesquisa"
+        href: research.qmd
       - text: "Sobre Mim"
         href: about.qmd
   page-footer:

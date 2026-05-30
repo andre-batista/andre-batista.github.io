@@ -1,5 +1,10 @@
 ---
-title: "About"
+title: "Sobre Mim"
 ---
 
-Graduated in Systems Engineering (2019/1) from the Federal University of Minas Gerais, with participation in the GS/CSF Science Without Borders Exchange Program at the University of Southern California (2015/2-2016/1), with CAPES as a fostering institution. He is currently pursuing his Ph.D. degree at the Graduate Program in Electrical Engineering at the Federal University of Minas Gerais (PPGEE-UFMG), in the Optimization research area. He is a member of the Computer Aided Design and Optimization Research Group (GOPAC/UFMG) and the Operations Research and Complex Systems Laboratory ([ORCS Lab/UFMG](https://orcslab.github.io/)). He has experience in Optimization, Evolutionary Computing, Computational Electromagnetism, Inverse Problems and Microwave Imaging.
+Sou Professor Assistente do Departamento de Engenharia Elétrica da Universidade Federal de Minas Gerais (DEE/UFMG), onde integro o Grupo de Pesquisa em Otimização e Projeto Assistido por Computador (GOPAC/UFMG) e o Operations Research and Complex Systems Laboratory (ORCS Lab/UFMG).
+
+Graduei-me em Engenharia de Sistemas pela UFMG em 2019. Durante a graduação, realizei um período de intercâmbio na University of Southern California (USC), em Los Angeles, pelo Programa Ciência sem Fronteiras (2015–2016), com financiamento da CAPES. Integrei o [Microwave Systems, Sensors and Imaging Lab](https://mixil.usc.edu/) (MiXiL) em um projeto de desenvolvimento de algoritmos de imageamento em microondas, sob a orientação do prof. John Stang e Pratik Shah.
+
+Concluí o doutorado em Engenharia Elétrica pela UFMG em 2023, e atuei como Professor Substituto no DEE/UFMG antes de assumir o cargo atual. Minha [tese de doutorado](https://repositorio.ufmg.br/items/3fc8052f-88b9-4872-8856-71dc99ffa549) investigou o uso de modelos substitutos (*surrogate models*) para o imageamento em micro-ondas, explorando diferentes estratégias de integração dessas técnicas com algoritmos qualitativos de reconstrução — em particular, o método OSM (*Orthogonality Sampling Method*) como solução inicial para os processos de inversão.
+

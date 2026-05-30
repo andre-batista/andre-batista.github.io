@@ -14,6 +14,9 @@ about:
     - icon: mortarboard
       text: Google Scholar
       href: https://scholar.google.com/citations?user=a00NW34AAAAJ&hl=pt-BR
+    - icon: award
+      text: ORCID
+      href: https://orcid.org/0000-0001-5954-9880
     - icon: file-earmark-text
       text: CV Lattes
       href: http://lattes.cnpq.br/2956055711847042
