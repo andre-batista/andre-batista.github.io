@@ -1,12 +1,12 @@
 ---
 title: "André Batista"
-subtitle: "Ph.D. Candidate · PPGEE-UFMG"
+subtitle: "Professor Assistente · DEE/UFMG"
 about:
   template: trestles
   image: assets/images/bio-photo.jpg
   links:
     - icon: envelope
-      text: Email
+      text: E-mail
       href: mailto:andre-costa@ufmg.br
     - icon: github
       text: GitHub
@@ -17,16 +17,14 @@ about:
     - icon: file-earmark-text
       text: CV Lattes
       href: http://lattes.cnpq.br/2956055711847042
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/andrecbatista
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/wmwandre.bsky.social
     - icon: building
       text: ORCS Lab
       href: https://orcslab.github.io/
 ---
 
-Ph.D. candidate at the Graduate Program in Electrical Engineering, Universidade Federal de Minas Gerais (Brazil).
+Sou Professor Assistente do [Departamento de Engenharia Elétrica (DEE)](https://dee.ufmg.br/) da [Universidade Federal de Minas Gerais (UFMG)](https://ufmg.br/) e integrante do [Laboratório de Pesquisa Operacional e Sistemas Complexos (ORCS Lab)](https://orcslab.github.io/). Também atuo como membro do Colegiado do Curso de Graduação em Engenharia de Sistemas da UFMG.
 
-Member of the Computer Aided Design and Optimization Research Group (GOPAC/UFMG) and the Operations Research and Complex Systems Laboratory ([ORCS Lab/UFMG](https://orcslab.github.io/)).
-
-Research areas: Optimization, Evolutionary Computing, Computational Electromagnetism, Inverse Problems, and Microwave Imaging.
+Leciono para o curso de graduação em Engenharia de Sistemas. Coordeno pesquisas nas área de engenharia de sistemas, otimização e imageamento em microondas. Integro projetos de extensão como cursos e Pesquisa & Desenvolvimento.

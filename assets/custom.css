@@ -1,0 +1,19 @@
+/* Bluesky icon override: Bootstrap Icons 1.11.1 does not include bi-bluesky */
+.bi-bluesky::before {
+    display: none !important;
+}
+.bi-bluesky {
+    display: inline-block !important;
+    width: 1em;
+    height: 1em;
+    background-color: currentColor;
+    -webkit-mask-image: url("../assets/images/bluesky.svg");
+    mask-image: url("../assets/images/bluesky.svg");
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+    -webkit-mask-size: contain;
+    mask-size: contain;
+    -webkit-mask-position: center;
+    mask-position: center;
+    vertical-align: -0.125em;
+}

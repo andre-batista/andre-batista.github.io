@@ -2,18 +2,19 @@ project:
   type: website
 
 website:
-  title: "André's Academic Profile"
-  description: "Personal page for academic information. Member of Operations Research and Complex Systems Laboratory (ORCS Lab/UFMG)."
+  title: "Perfil Acadêmico"
+  description: "Página pessoal para informações acadêmicas."
   site-url: "https://andre-batista.github.io"
+  favicon: favicon.ico
   navbar:
     left:
       - text: "Blog"
         href: posts/index.qmd
-      - text: "Research Interests"
+      - text: "Interesses de Pesquisa"
         href: research-interests.qmd
-      - text: "Publications"
+      - text: "Publicações"
         href: publications.qmd
-      - text: "About"
+      - text: "Sobre Mim"
         href: about.qmd
   page-footer:
     center: "© André Batista · Built with [Quarto](https://quarto.org)"
@@ -22,3 +23,4 @@ format:
   html:
     theme: cosmo
     toc: false
+    css: assets/custom.css
