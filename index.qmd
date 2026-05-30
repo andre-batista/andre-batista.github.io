@@ -1,0 +1,32 @@
+---
+title: "André Batista"
+subtitle: "Ph.D. Candidate · PPGEE-UFMG"
+about:
+  template: trestles
+  image: assets/images/bio-photo.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:andre-costa@ufmg.br
+    - icon: github
+      text: GitHub
+      href: https://github.com/andre-batista
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=a00NW34AAAAJ&hl=pt-BR
+    - icon: file-earmark-text
+      text: CV Lattes
+      href: http://lattes.cnpq.br/2956055711847042
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/andrecbatista
+    - icon: building
+      text: ORCS Lab
+      href: https://orcslab.github.io/
+---
+
+Ph.D. candidate at the Graduate Program in Electrical Engineering, Universidade Federal de Minas Gerais (Brazil).
+
+Member of the Computer Aided Design and Optimization Research Group (GOPAC/UFMG) and the Operations Research and Complex Systems Laboratory ([ORCS Lab/UFMG](https://orcslab.github.io/)).
+
+Research areas: Optimization, Evolutionary Computing, Computational Electromagnetism, Inverse Problems, and Microwave Imaging.

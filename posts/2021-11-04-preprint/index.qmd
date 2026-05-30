@@ -1,11 +1,7 @@
 ---
 title: "EISPY2D: Preprint available"
-date: 2021-10-25T20:48:30-01:00
+date: 2021-10-25
 categories:
-  - paper
-  - preprint
-  - eispy2d
-tags:
   - paper
   - preprint
   - eispy2d
