@@ -1,0 +1,29 @@
+{
+  "about.qmd": {
+    "about.html": "98af4573"
+  },
+  "index.qmd": {
+    "index.html": "6a6a407a"
+  },
+  "posts/2021-10-22-eispy2d/index.qmd": {
+    "index.html": "844a6b22"
+  },
+  "posts/2021-11-04-preprint/index.qmd": {
+    "index.html": "50d68c22"
+  },
+  "posts/index.qmd": {
+    "index.html": "f8355f62"
+  },
+  "publications.qmd": {
+    "publications.html": "c6f15540"
+  },
+  "research-interests.qmd": {
+    "research-interests.html": "216db63b"
+  },
+  "TODO.md": {
+    "TODO.html": "8c9623b9"
+  },
+  "research.qmd": {
+    "research.html": "5c1b4fb6"
+  }
+}
