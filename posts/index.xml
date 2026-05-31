@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>André&#39;s Academic Profile</title>
+<link>https://andre-batista.github.io/posts/</link>
+<atom:link href="https://andre-batista.github.io/posts/index.xml" rel="self" type="application/rss+xml"/>
+<description>Personal page for academic information. Member of Operations Research and Complex Systems Laboratory (ORCS Lab/UFMG).</description>
+<generator>quarto-1.6.39</generator>
+<lastBuildDate>Mon, 25 Oct 2021 03:00:00 GMT</lastBuildDate>
+<item>
+  <title>EISPY2D: Preprint available</title>
+  <link>https://andre-batista.github.io/posts/2021-11-04-preprint/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>While the paper presenting the <strong>eispy2d</strong> library is under review, the preprint version is now available at <strong>arXiv</strong>! You may access it through this <a href="https://arxiv.org/abs/2111.02185#">link</a>!</p>
+<p>Comments are welcome!</p>
+
+
+
+ ]]></description>
+  <category>paper</category>
+  <category>preprint</category>
+  <category>eispy2d</category>
+  <guid>https://andre-batista.github.io/posts/2021-11-04-preprint/</guid>
+  <pubDate>Mon, 25 Oct 2021 03:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>eispy2d Release</title>
+  <link>https://andre-batista.github.io/posts/2021-10-22-eispy2d/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>The library <strong>eispy2d</strong> is now released! This is an open-source Python library for developing and testing algorithms for Electromagnetic Inverse Scattering Problems (EISPs). We provide tools to generate problems, to build algorithms, and to results analysis. The library was intended to save time from having to develop the whole structure to represent an EISP instance and to share new ideas by developing new methodologies and making them available for comparison and general studies.</p>
+<p>Check <strong>eispy2d</strong> out at its <a href="https://andre-batista.github.io/eispy2d">website</a>!</p>
+
+
+
+ ]]></description>
+  <category>blog</category>
+  <category>eispy2d</category>
+  <category>microwaveimaging</category>
+  <guid>https://andre-batista.github.io/posts/2021-10-22-eispy2d/</guid>
+  <pubDate>Fri, 22 Oct 2021 03:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
