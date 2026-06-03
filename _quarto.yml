@@ -8,10 +8,10 @@ website:
   favicon: favicon.ico
   navbar:
     left:
-      - text: "Pesquisa"
-        href: research.qmd
       - text: "Ensino"
         href: teaching.qmd
+      - text: "Pesquisa"
+        href: research.qmd
       - text: "Sobre Mim"
         href: about.qmd
   page-footer:
