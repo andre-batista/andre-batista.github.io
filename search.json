@@ -11,14 +11,14 @@
     "href": "teaching.html",
     "title": "Ensino",
     "section": "",
-    "text": "Em construção."
+    "text": "Atuo principalmente no curso de graduação em Engenharia de Sistemas da UFMG, embora já tenha lecionado outras disciplinas do Departamento de Engenharia Elétrica para outros cursos de engenharia. Minha atuação docente concentra-se em engenharia de sistemas, otimização e circuitos elétricos."
   },
   {
     "objectID": "teaching.html#disciplinas",
     "href": "teaching.html#disciplinas",
     "title": "Ensino",
-    "section": "",
-    "text": "Em construção."
+    "section": "Disciplinas",
+    "text": "Disciplinas\n\nELE634 · Laboratório de Sistemas II\nDisciplina obrigatória do curso de Engenharia de Sistemas. Segue o modelo de Aprendizado Baseado em Projetos (PBL), em que os alunos desenvolvem projetos em parceria com organizações ou empresas externas à UFMG. A ênfase recai na aplicação de técnicas de otimização, embora projetos de sistemas de software também sejam contemplados. Projetos anteriores incluem modelagem, simulação e otimização do atendimento de uma clínica oftalmológica e otimização de rotas de ônibus para embarque remoto.\n\n\n\nCarga horária\n50 h\n\n\nAlunos (típico)\n25\n\n\nParcerias externas\nSim — empresas e organizações interessadas podem entrar em contato\n\n\n\n\n\n\nELE632 · Processos e Métodos em Engenharia de Sistemas\nDisciplina com visão holística do sistema socioeconômico atual e seus principais processos. Aborda ciclos de vida de sistemas segundo normas e referências técnicas internacionais, com aplicação prática junto à comunidade externa em atividades de extensão universitária.\n\n\n\nCarga horária\n50 h\n\n\nAlunos (típico)\n40\n\n\nParcerias externas\nSim — empresas e organizações interessadas podem entrar em contato\n\n\n\nReferências bibliográficas:\n\nKossiakoff, A., Sweet, W. N., Seymour, S. J., & Biemer, S. M. (2023). Systems Engineering Principles and Practice. John Wiley & Sons.\nINCOSE. Systems Engineering Handbook: A Guide for System Life Cycle Processes and Activities, 5th ed. John Wiley & Sons, 2023.\nSEBOK Editorial Board. The Guide to the Systems Engineering Body of Knowledge (SEBoK), v. 2.6. Stevens Institute of Technology, 2022. sebokwiki.org\n\n\n\n\nELE077 · Otimização Não Linear\nDisciplina que cobre formulação de problemas de otimização e propriedades geométricas dos espaços de busca (convexidade, diferenciabilidade, modalidade). Trata condições de otimalidade, métodos determinísticos para otimização irrestrita, métodos sem derivadas e métodos para otimização restrita.\n\n\n\nCarga horária\n25 h\n\n\n\nReferências bibliográficas:\n\nRao, S. S. Engineering Optimization: Theory and Practice, 4th ed. John Wiley & Sons, 2009.\nLuenberger, D. G. Linear and Nonlinear Programming, 2nd ed. Springer, 2005.\nBazaraa, M. S., Sherali, H. D., & Shetty, C. M. Nonlinear Programming: Theory and Algorithms, 2nd ed. John Wiley & Sons, 1993.\nFletcher, R. Practical Methods of Optimization, 2nd ed. John Wiley & Sons, 1987."
   },
   {
     "objectID": "research.html",
