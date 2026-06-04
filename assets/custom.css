@@ -1,4 +1,32 @@
-/* Bluesky icon override: Bootstrap Icons 1.11.1 does not include bi-bluesky */
+/* ── Language toggle ─────────────────────────────────────────── */
+.lang-en { display: none; }
+
+[data-lang="en"] .lang-en { display: revert; }
+[data-lang="en"] .lang-pt { display: none; }
+
+#lang-toggle-btn {
+  background: #212529;
+  border: 1px solid #212529;
+  border-radius: 4px;
+  padding: 3px 9px;
+  cursor: pointer;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: #fff;
+  letter-spacing: 0.05em;
+  margin-right: 6px;
+  transition: background 0.15s, border-color 0.15s;
+  font-family: inherit;
+  line-height: 1;
+  vertical-align: middle;
+}
+
+#lang-toggle-btn:hover {
+  background: #343a40;
+  border-color: #343a40;
+}
+
+/* ── Bluesky icon override: Bootstrap Icons 1.11.1 does not include bi-bluesky */
 .bi-bluesky::before {
     display: none !important;
 }

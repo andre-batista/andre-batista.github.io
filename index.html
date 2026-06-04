@@ -42,7 +42,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-94b323657c735dfe3b1bf6ebb2c33a55.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-e7c8c5baa1cad10eae1cc8661c30d63e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -97,8 +97,16 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Ensino</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./extensao.html"> 
+<span class="menu-text">Extensão</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./research.html"> 
 <span class="menu-text">Pesquisa</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./opensource.html"> 
+<span class="menu-text">Código Aberto</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
@@ -150,6 +158,10 @@ ul.task-list li input[type="checkbox"] {
     <i class="bi bi-file-earmark-text"></i>
      <span class="about-link-text">CV Lattes</span>
   </a>
+  <a href="https://www.linkedin.com/in/andre-cb" class="about-link" rel="" target="">
+    <i class="bi bi-linkedin"></i>
+     <span class="about-link-text">LinkedIn</span>
+  </a>
   <a href="https://bsky.app/profile/wmwandre.bsky.social" class="about-link" rel="" target="">
     <i class="bi bi-bluesky"></i>
      <span class="about-link-text">Bluesky</span>
@@ -161,13 +173,147 @@ ul.task-list li input[type="checkbox"] {
 </div>
   </div>
   <div class="about-contents"><main class="content" id="quarto-document-content">
+<div class="lang-pt">
 <p>Sou Professor Assistente do <a href="https://dee.ufmg.br/">Departamento de Engenharia Elétrica (DEE)</a> da <a href="https://ufmg.br/">Universidade Federal de Minas Gerais (UFMG)</a> e integrante do <a href="https://orcslab.github.io/">Laboratório de Pesquisa Operacional e Sistemas Complexos (ORCS Lab)</a>. Também atuo como membro do Colegiado do Curso de Graduação em Engenharia de Sistemas da UFMG.</p>
 <p>Leciono para o curso de graduação em Engenharia de Sistemas. Coordeno pesquisas nas área de engenharia de sistemas, otimização e imageamento em microondas. Integro projetos de extensão como cursos e Pesquisa &amp; Desenvolvimento.</p>
+</div>
+<div class="lang-en">
+<p>I am an Assistant Professor at the <a href="https://dee.ufmg.br/">Department of Electrical Engineering (DEE)</a> of the <a href="https://ufmg.br/">Federal University of Minas Gerais (UFMG)</a> and a member of the <a href="https://orcslab.github.io/">Operations Research and Complex Systems Laboratory (ORCS Lab)</a>. I also serve as a member of the undergraduate Systems Engineering program board at UFMG.</p>
+<p>I teach in the undergraduate Systems Engineering program. I coordinate research in systems engineering, optimization, and microwave imaging. I am involved in extension projects including courses and Research &amp; Development initiatives.</p>
+</div>
 
 
 </main></div>
 </div>
  <!-- /main -->
+<script>
+(function () {
+  var LANG_KEY = 'preferred-lang';
+
+  var navTranslations = {
+    'Ensino': 'Teaching',
+    'Extensão': 'Extension',
+    'Pesquisa': 'Research',
+    'Código Aberto': 'Open Source',
+    'Sobre Mim': 'About Me'
+  };
+
+  var brandTranslations = {
+    'Perfil Acadêmico': 'Academic Profile'
+  };
+
+  var subtitleTranslations = {
+    'Professor Assistente · DEE/UFMG': 'Assistant Professor · DEE/UFMG'
+  };
+
+  var titleTranslations = {
+    'Ensino': 'Teaching',
+    'Extensão': 'Extension',
+    'Pesquisa': 'Research',
+    'Código Aberto': 'Open Source',
+    'Sobre Mim': 'About Me'
+  };
+
+  window.toggleLang = function () {
+    var current = document.body.getAttribute('data-lang') || 'pt';
+    applyLang(current === 'pt' ? 'en' : 'pt');
+  };
+
+  function applyLang(lang) {
+    document.body.setAttribute('data-lang', lang);
+    var btn = document.getElementById('lang-toggle-btn');
+
+    if (lang === 'en') {
+      if (btn) btn.textContent = 'PT';
+
+      document.querySelectorAll('.navbar-nav .nav-link').forEach(function (link) {
+        var text = link.textContent.trim();
+        if (navTranslations[text]) {
+          link.setAttribute('data-pt-text', text);
+          link.textContent = navTranslations[text];
+        }
+      });
+
+      var brand = document.querySelector('.navbar-brand .navbar-title');
+      if (brand) {
+        var brandText = brand.textContent.trim();
+        if (brandTranslations[brandText]) {
+          brand.setAttribute('data-pt-text', brandText);
+          brand.textContent = brandTranslations[brandText];
+        }
+      }
+
+      var h1 = document.querySelector('h1.title');
+      if (h1) {
+        var ptTitle = h1.textContent.trim();
+        if (titleTranslations[ptTitle]) {
+          h1.setAttribute('data-pt-text', ptTitle);
+          h1.textContent = titleTranslations[ptTitle];
+        }
+      }
+
+      var subtitle = document.querySelector('p.subtitle');
+      if (subtitle) {
+        var ptSub = subtitle.textContent.trim();
+        if (subtitleTranslations[ptSub]) {
+          subtitle.setAttribute('data-pt-text', ptSub);
+          subtitle.textContent = subtitleTranslations[ptSub];
+        }
+      }
+
+    } else {
+      if (btn) btn.textContent = 'EN';
+
+      document.querySelectorAll('.navbar-nav .nav-link').forEach(function (link) {
+        var ptText = link.getAttribute('data-pt-text');
+        if (ptText) link.textContent = ptText;
+      });
+
+      var brand = document.querySelector('.navbar-brand .navbar-title');
+      if (brand) {
+        var ptBrand = brand.getAttribute('data-pt-text');
+        if (ptBrand) brand.textContent = ptBrand;
+      }
+
+      var h1 = document.querySelector('h1.title');
+      if (h1) {
+        var ptTitle = h1.getAttribute('data-pt-text');
+        if (ptTitle) h1.textContent = ptTitle;
+      }
+
+      var subtitle = document.querySelector('p.subtitle');
+      if (subtitle) {
+        var ptSub = subtitle.getAttribute('data-pt-text');
+        if (ptSub) subtitle.textContent = ptSub;
+      }
+    }
+
+    localStorage.setItem(LANG_KEY, lang);
+  }
+
+  document.addEventListener('DOMContentLoaded', function () {
+    // Create button and inject it into the navbar tools area, before the search icon
+    var btn = document.createElement('button');
+    btn.id = 'lang-toggle-btn';
+    btn.setAttribute('title', 'Switch language / Mudar idioma');
+    btn.setAttribute('aria-label', 'Switch language');
+    btn.textContent = 'EN';
+    btn.onclick = window.toggleLang;
+
+    var searchDiv = document.getElementById('quarto-search');
+    if (searchDiv && searchDiv.parentNode) {
+      searchDiv.parentNode.insertBefore(btn, searchDiv);
+    } else {
+      // Fallback: append to navbar container
+      var navbar = document.querySelector('.navbar-container');
+      if (navbar) navbar.appendChild(btn);
+    }
+
+    var saved = localStorage.getItem(LANG_KEY) || 'pt';
+    applyLang(saved);
+  });
+})();
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const isCodeAnnotation = (el) => {
