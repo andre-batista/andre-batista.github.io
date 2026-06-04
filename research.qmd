@@ -2,6 +2,8 @@
 title: "Pesquisa"
 ---
 
+::: {.lang-pt}
+
 ## Interesses de Pesquisa
 
 Meus interesses de pesquisa concentram-se em três áreas principais: **Imageamento por Micro-ondas**, **Otimização** e **Engenharia de Sistemas**.
@@ -31,3 +33,39 @@ Oriento alunos de iniciação científica, prioritariamente do curso de Engenhar
 
 - Campolina, R., and Batista, André Costa. "Skill-Based and Behavioral Task Allocation in Software Projects." *25th International Conference of the International Federation of Operational Research Societies (IFORS)*, Vienna, Austria. IFORS, 2026.
 - Batista, André Costa, and Pratik Shah, and Guanbo Chen, and John Stang. "[Three Dimensional Level Set Method for Microwave Imaging](https://www.usnc-ursi-archive.org/nrsm/2017/NRSM%202017%20Program.html)." *USNC-URSI National Radio Science Meeting*, Boulder, Colorado, USA. USNC-URSI, 2017.
+
+:::
+
+::: {.lang-en}
+
+## Research Interests
+
+My research interests focus on three main areas: **Microwave Imaging**, **Optimization**, and **Systems Engineering**.
+
+In the field of microwave imaging, I investigate the improvement of electromagnetic inversion techniques, with emphasis on integrating machine learning methods to solve inverse scattering problems. In optimization, I develop and apply exact, metaheuristic, and evolutionary methods to combinatorial and continuous problems in domains such as parallel machine scheduling, energy network management, and supply chain optimization. In systems engineering, my interest lies in the foundations and practices of Model-Based Systems Engineering (MBSE), Systems Thinking, and Requirements Engineering.
+
+I supervise undergraduate research students, primarily from the Systems Engineering program, and co-supervise master's and doctoral students.
+
+## Publications
+
+### Journals
+
+- Batista, André Costa, and Ricardo Adriano. "[Performance Indicators for Shape and Position Assessment in Electromagnetic Inverse Scattering](https://doi.org/10.1109/ACCESS.2026.3668662)." *IEEE Access* 14 (2026): 31917-31933.
+- Costa Batista, A., Adriano, R., and Batista, L. S. "[EISPY2D: An Open-Source Python Library for the Development and Comparison of Algorithms in Two-Dimensional Electromagnetic Inverse Scattering Problems](https://doi.org/10.1109/ACCESS.2025.3573679)." *IEEE Access* 13 (2025): 92134-92154.
+- Vargas, Jose O., et al. "[On the computational complexity of the conjugate-gradient method for solving inverse scattering problems](https://www.tandfonline.com/doi/abs/10.1080/09205071.2021.1946862)." *Journal of Electromagnetic Waves and Applications* (2021): 1-12.
+- Batista, André Costa, Lucas S. Batista, and Ricardo Adriano. "[A Quadratic Programming Approach for Microwave Imaging](https://ieeexplore.ieee.org/abstract/document/9362200)." *IEEE Transactions on Antennas and Propagation* (2021).
+- Batista, Andre Costa, and Lucas S. Batista. "[Demand side management using a multi-criteria ϵ-constraint based exact approach](https://www.sciencedirect.com/science/article/abs/pii/S095741741830054X)." *Expert Systems with Applications* 99 (2018): 180-192.
+
+### Conferences
+
+- Diniz, Raissa Gonçalves, and André Costa Batista. "[Aprimoramento de Metaheurísticas para Otimização da Cadeia de Suprimentos de Pistache](https://sbia.org.br/eventos/cbic_2025/cbic2025-1176246/)." *Congresso Brasileiro de Inteligência Computacional (CBIC)*. SBIC, 2025.
+- Barbosa, Henrique Alves. "[ESCOLHA DE FINANCIAMENTO CORPORATIVO: Uma Abordagem Assistida por Técnicas de Tomada de Decisão](https://sba.org.br/open_journal_systems/index.php/cba/article/view/4676)." *XXV Congresso Brasileiro de Automática (CBA)*. SBA, 2024.
+- Batista, André Costa, and Lucas S. Batista. "[A distance based variable neighborhood search for parallel machine scheduling](https://ieeexplore.ieee.org/abstract/document/7007168)." *2014 IEEE Symposium on Computational Intelligence in Production and Logistics Systems (CIPLS)*. IEEE, 2014.
+- Batista, André Costa, and Lucas S. Batista. "[Síntese de uma estrutura de vizinhança e operadores evolutivos para o escalonamento de máquinas](https://www.researchgate.net/publication/327335134_Sintese_de_uma_estrutura_de_vizinhanca_e_operadores_evolutivos_para_o_escalonamento_de_maquinas)." *XX Congresso Brasileiro de Automática (CBA)*. SBA, 2014.
+
+### Abstracts
+
+- Campolina, R., and Batista, André Costa. "Skill-Based and Behavioral Task Allocation in Software Projects." *25th International Conference of the International Federation of Operational Research Societies (IFORS)*, Vienna, Austria. IFORS, 2026.
+- Batista, André Costa, and Pratik Shah, and Guanbo Chen, and John Stang. "[Three Dimensional Level Set Method for Microwave Imaging](https://www.usnc-ursi-archive.org/nrsm/2017/NRSM%202017%20Program.html)." *USNC-URSI National Radio Science Meeting*, Boulder, Colorado, USA. USNC-URSI, 2017.
+
+:::

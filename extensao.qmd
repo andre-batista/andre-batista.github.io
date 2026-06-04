@@ -1,0 +1,63 @@
+---
+title: "Extensão"
+---
+
+::: {.lang-pt}
+
+Participo de projetos de extensão nas modalidades de cursos de extensão e projetos de Pesquisa & Desenvolvimento (P&D). Abaixo estão alguns projetos realizados.
+
+## Projetos de P&D
+
+### EMBRAPII/SEBRAE — Sistema de Design Otimizado e Automatizado de Usinas Solares com Inteligência Artificial
+
+Desenvolvimento de um sistema para o design otimizado e automatizado de usinas solares fotovoltaicas, empregando técnicas de otimização multiobjetivo para maximizar a produção de energia e minimizar os custos de projeto.
+
+### Otimização de Serviços de Oftalmologia da Virtù
+
+Modelagem, simulação e otimização do fluxo de atendimento da clínica Virtù em Belo Horizonte, com redimensionamento das instalações para atender à demanda de forma eficiente. O projeto inclui a implementação de um sistema de monitoramento em tempo real para detecção e mitigação de gargalos, além de uma ferramenta de planejamento para futuras instalações.
+
+### Estudo de Sinistros do Trânsito de Belo Horizonte com Ciência de Dados
+
+Aplicação de técnicas de ciência de dados na análise de sinistros de trânsito em Belo Horizonte, gerando evidências científicas para subsidiar estratégias de prevenção de acidentes e redução de fatalidades nas políticas públicas de mobilidade urbana.
+
+## Cursos de Extensão
+
+### Otimização e Modelos de Linguagem para Aplicações Industriais
+
+Curso voltado a profissionais e estudantes que buscam conhecimento em otimização (Pesquisa Operacional, Otimização Não Linear, Meta-heurísticas e Otimização Multiobjetivo) e em modelos de linguagem generativa. O conteúdo cobre tanto fundamentos teóricos quanto aplicações práticas para a resolução de problemas industriais.
+
+### Formação Profissional em Engenharia de Sistemas: Conceitos, Processos e Práticas
+
+Curso em língua portuguesa voltado à formação em Engenharia de Sistemas, desenvolvido em parceria com o INCOSE (*International Council on Systems Engineering*). O programa atende à demanda do mercado por esses conhecimentos e oferece suporte à obtenção da certificação internacional ASEP (*Associate Systems Engineering Professional*).
+
+:::
+
+::: {.lang-en}
+
+I participate in extension projects in the forms of extension courses and Research & Development (R&D) projects. Below are some completed projects.
+
+## R&D Projects
+
+### EMBRAPII/SEBRAE — Optimized and Automated Design System for Solar Power Plants using Artificial Intelligence
+
+Development of a system for the optimized and automated design of photovoltaic solar power plants, employing multi-objective optimization techniques to maximize energy production and minimize project costs.
+
+### Optimization of Ophthalmology Services at Virtù Clinic
+
+Modeling, simulation, and optimization of the patient flow at the Virtù clinic in Belo Horizonte, with resizing of facilities to efficiently meet demand. The project includes the implementation of a real-time monitoring system for bottleneck detection and mitigation, as well as a planning tool for future facilities.
+
+### Study of Traffic Accidents in Belo Horizonte using Data Science
+
+Application of data science techniques to analyze traffic accidents in Belo Horizonte, generating scientific evidence to support accident prevention strategies and fatality reduction in urban mobility public policies.
+
+## Extension Courses
+
+### Optimization and Language Models for Industrial Applications
+
+A course aimed at professionals and students seeking knowledge in optimization (Operations Research, Nonlinear Optimization, Metaheuristics, and Multi-objective Optimization) and generative language models. The content covers both theoretical foundations and practical applications for solving industrial problems.
+
+### Professional Training in Systems Engineering: Concepts, Processes, and Practices
+
+A Portuguese-language course focused on Systems Engineering training, developed in partnership with INCOSE (*International Council on Systems Engineering*). The program addresses the market demand for this knowledge and supports the attainment of the international ASEP (*Associate Systems Engineering Professional*) certification.
+
+:::

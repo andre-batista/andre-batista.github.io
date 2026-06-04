@@ -2,9 +2,22 @@
 title: "Sobre Mim"
 ---
 
+::: {.lang-pt}
 Sou Professor Assistente do Departamento de Engenharia Elétrica da Universidade Federal de Minas Gerais (DEE/UFMG), onde integro o Grupo de Pesquisa em Otimização e Projeto Assistido por Computador (GOPAC/UFMG) e o Operations Research and Complex Systems Laboratory (ORCS Lab/UFMG).
 
 Graduei-me em Engenharia de Sistemas pela UFMG em 2019. Durante a graduação, realizei um período de intercâmbio na University of Southern California (USC), em Los Angeles, pelo Programa Ciência sem Fronteiras (2015–2016), com financiamento da CAPES. Integrei o [Microwave Systems, Sensors and Imaging Lab](https://mixil.usc.edu/) (MiXiL) em um projeto de desenvolvimento de algoritmos de imageamento em microondas, sob a orientação do prof. John Stang e Pratik Shah.
 
 Concluí o doutorado em Engenharia Elétrica pela UFMG em 2023, e atuei como Professor Substituto no DEE/UFMG antes de assumir o cargo atual. Minha [tese de doutorado](https://repositorio.ufmg.br/items/3fc8052f-88b9-4872-8856-71dc99ffa549) investigou o uso de modelos substitutos (*surrogate models*) para o imageamento em micro-ondas, explorando diferentes estratégias de integração dessas técnicas com algoritmos qualitativos de reconstrução — em particular, o método OSM (*Orthogonality Sampling Method*) como solução inicial para os processos de inversão.
 
+Fui professor substituto do DEE de 2022 a 2024, lecionando disciplinas para os cursos de engenharia de sistemas, engenharia de controle e automação, engenharia mecânica, engenharia elétrica e engenharia química. Sou professor concursado no mesmo departamento desde 2024, atuando principalmente no curso de graduação em engenharia de sistemas, do qual sou membro do colegiado.
+:::
+
+::: {.lang-en}
+I am an Assistant Professor at the Department of Electrical Engineering of the Federal University of Minas Gerais (DEE/UFMG), where I am a member of the Research Group on Optimization and Computer-Aided Design (GOPAC/UFMG) and the Operations Research and Complex Systems Laboratory (ORCS Lab/UFMG).
+
+I graduated in Systems Engineering from UFMG in 2019. During my undergraduate studies, I spent a semester abroad at the University of Southern California (USC), in Los Angeles, through the Science Without Borders program (2015–2016), funded by CAPES. I joined the [Microwave Systems, Sensors and Imaging Lab](https://mixil.usc.edu/) (MiXiL) and worked on a microwave imaging algorithm development project, under the supervision of Prof. John Stang and Pratik Shah.
+
+I completed my Ph.D. in Electrical Engineering at UFMG in 2023, and served as a Substitute Professor at DEE/UFMG before taking on my current position. My [doctoral thesis](https://repositorio.ufmg.br/items/3fc8052f-88b9-4872-8856-71dc99ffa549) investigated the use of surrogate models for microwave imaging, exploring different strategies for integrating these techniques with qualitative reconstruction algorithms — in particular, the OSM (Orthogonality Sampling Method) as an initial solution for inversion processes.
+
+I served as a substitute professor at DEE from 2022 to 2024, teaching courses for systems engineering, control and automation engineering, mechanical engineering, electrical engineering, and chemical engineering programs. I have been a tenured professor in the same department since 2024, working primarily in the undergraduate systems engineering program, of which I am a board member.
+:::

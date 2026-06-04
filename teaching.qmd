@@ -2,6 +2,8 @@
 title: "Ensino"
 ---
 
+::: {.lang-pt}
+
 Atuo principalmente no curso de graduação em **Engenharia de Sistemas** da UFMG, embora já tenha lecionado outras disciplinas do Departamento de Engenharia Elétrica para outros cursos de engenharia. Minha atuação docente concentra-se em engenharia de sistemas, otimização e circuitos elétricos.
 
 ## Disciplinas
@@ -50,3 +52,58 @@ Disciplina que cobre formulação de problemas de otimização e propriedades ge
 - Luenberger, D. G. *Linear and Nonlinear Programming*, 2nd ed. Springer, 2005.
 - Bazaraa, M. S., Sherali, H. D., & Shetty, C. M. *Nonlinear Programming: Theory and Algorithms*, 2nd ed. John Wiley & Sons, 1993.
 - Fletcher, R. *Practical Methods of Optimization*, 2nd ed. John Wiley & Sons, 1987.
+
+:::
+
+::: {.lang-en}
+
+I work primarily in the undergraduate **Systems Engineering** program at UFMG, although I have also taught other courses in the Department of Electrical Engineering for other engineering programs. My teaching focuses on systems engineering, optimization, and electric circuits.
+
+## Courses
+
+### ELE634 · Systems Laboratory II
+
+A required course in the Systems Engineering program. It follows the **Project-Based Learning (PBL)** model, in which students develop projects in partnership with external organizations or companies. The emphasis is on the application of optimization techniques, although software systems projects are also included. Past projects include modeling, simulation, and optimization of patient flow at an ophthalmology clinic, and bus route optimization for remote boarding.
+
+| | |
+|---|---|
+| **Workload** | 50 h |
+| **Students (typical)** | 25 |
+| **External partnerships** | Yes — interested companies and organizations may [get in touch](mailto:andre-costa@ufmg.br) |
+
+---
+
+### ELE632 · Processes and Methods in Systems Engineering
+
+A course with a holistic view of the current socioeconomic system and its main processes. It covers system life cycles according to international standards and technical references, with practical application with the external community through university extension activities.
+
+| | |
+|---|---|
+| **Workload** | 50 h |
+| **Students (typical)** | 40 |
+| **External partnerships** | Yes — interested companies and organizations may [get in touch](mailto:andre-costa@ufmg.br) |
+
+**References:**
+
+- Kossiakoff, A., Sweet, W. N., Seymour, S. J., & Biemer, S. M. (2023). *Systems Engineering Principles and Practice*. John Wiley & Sons.
+- INCOSE. *Systems Engineering Handbook: A Guide for System Life Cycle Processes and Activities*, 5th ed. John Wiley & Sons, 2023.
+- SEBOK Editorial Board. *The Guide to the Systems Engineering Body of Knowledge (SEBoK)*, v. 2.6. Stevens Institute of Technology, 2022. [sebokwiki.org](https://www.sebokwiki.org)
+
+---
+
+### ELE077 · Nonlinear Optimization
+
+A course covering the formulation of optimization problems and geometric properties of search spaces (convexity, differentiability, modality). It addresses optimality conditions, deterministic methods for unconstrained optimization, derivative-free methods, and methods for constrained optimization.
+
+| | |
+|---|---|
+| **Workload** | 25 h |
+
+**References:**
+
+- Rao, S. S. *Engineering Optimization: Theory and Practice*, 4th ed. John Wiley & Sons, 2009.
+- Luenberger, D. G. *Linear and Nonlinear Programming*, 2nd ed. Springer, 2005.
+- Bazaraa, M. S., Sherali, H. D., & Shetty, C. M. *Nonlinear Programming: Theory and Algorithms*, 2nd ed. John Wiley & Sons, 1993.
+- Fletcher, R. *Practical Methods of Optimization*, 2nd ed. John Wiley & Sons, 1987.
+
+:::

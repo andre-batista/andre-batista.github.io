@@ -20,6 +20,9 @@ about:
     - icon: file-earmark-text
       text: CV Lattes
       href: http://lattes.cnpq.br/2956055711847042
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/andre-cb
     - icon: bluesky
       text: Bluesky
       href: https://bsky.app/profile/wmwandre.bsky.social
@@ -28,6 +31,14 @@ about:
       href: https://orcslab.github.io/
 ---
 
+::: {.lang-pt}
 Sou Professor Assistente do [Departamento de Engenharia Elétrica (DEE)](https://dee.ufmg.br/) da [Universidade Federal de Minas Gerais (UFMG)](https://ufmg.br/) e integrante do [Laboratório de Pesquisa Operacional e Sistemas Complexos (ORCS Lab)](https://orcslab.github.io/). Também atuo como membro do Colegiado do Curso de Graduação em Engenharia de Sistemas da UFMG.
 
 Leciono para o curso de graduação em Engenharia de Sistemas. Coordeno pesquisas nas área de engenharia de sistemas, otimização e imageamento em microondas. Integro projetos de extensão como cursos e Pesquisa & Desenvolvimento.
+:::
+
+::: {.lang-en}
+I am an Assistant Professor at the [Department of Electrical Engineering (DEE)](https://dee.ufmg.br/) of the [Federal University of Minas Gerais (UFMG)](https://ufmg.br/) and a member of the [Operations Research and Complex Systems Laboratory (ORCS Lab)](https://orcslab.github.io/). I also serve as a member of the undergraduate Systems Engineering program board at UFMG.
+
+I teach in the undergraduate Systems Engineering program. I coordinate research in systems engineering, optimization, and microwave imaging. I am involved in extension projects including courses and Research & Development initiatives.
+:::

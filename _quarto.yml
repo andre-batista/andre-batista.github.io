@@ -7,11 +7,16 @@ website:
   site-url: "https://andre-batista.github.io"
   favicon: favicon.ico
   navbar:
+    background: light
     left:
       - text: "Ensino"
         href: teaching.qmd
+      - text: "Extensão"
+        href: extensao.qmd
       - text: "Pesquisa"
         href: research.qmd
+      - text: "Código Aberto"
+        href: opensource.qmd
       - text: "Sobre Mim"
         href: about.qmd
   page-footer:
@@ -22,3 +27,4 @@ format:
     theme: cosmo
     toc: false
     css: assets/custom.css
+    include-after-body: assets/lang-toggle.html

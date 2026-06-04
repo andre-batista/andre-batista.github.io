@@ -1,0 +1,111 @@
+---
+title: "Código Aberto"
+---
+
+::: {.lang-pt}
+
+Mantenho alguns projetos de código aberto disponíveis no meu [perfil do GitHub](https://github.com/andre-batista). Contribuições e sugestões são bem-vindas!
+
+<div class="row row-cols-1 row-cols-md-2 g-4 mt-2">
+
+<div class="col">
+<div class="card h-100 shadow-sm">
+<div class="card-body d-flex flex-column">
+<h5 class="card-title">
+<i class="bi bi-cpu me-2"></i>eispy2d
+</h5>
+<h6 class="card-subtitle mb-2 text-muted">Biblioteca Python para Espalhamento Inverso 2D</h6>
+<p class="card-text flex-grow-1">
+Pacote Python para desenvolvimento e comparação de algoritmos que resolvem o problema inverso de espalhamento eletromagnético bidimensional. Oferece ferramentas padronizadas para simulação de cenários, avaliação de desempenho e visualização de resultados, facilitando a reprodutibilidade e a comparação entre abordagens distintas.
+</p>
+<div class="mb-3">
+<span class="badge bg-primary me-1">Python</span>
+<span class="badge bg-secondary me-1">Eletromagnetismo</span>
+<span class="badge bg-secondary">Problemas Inversos</span>
+</div>
+<a href="https://github.com/andre-batista/eispy2d" target="_blank" class="btn btn-outline-dark btn-sm mt-auto">
+<i class="bi bi-github me-1"></i>Ver no GitHub
+</a>
+</div>
+</div>
+</div>
+
+<div class="col">
+<div class="card h-100 shadow-sm">
+<div class="card-body d-flex flex-column">
+<h5 class="card-title">
+<i class="bi bi-file-earmark-text me-2"></i>ufmg-latex
+</h5>
+<h6 class="card-subtitle mb-2 text-muted">Template LaTeX para Trabalhos Acadêmicos na UFMG</h6>
+<p class="card-text flex-grow-1">
+Modelo não-oficial em LaTeX para TCC, dissertação e tese na UFMG, estruturado sobre a classe <code>book</code> nativa do LaTeX. Segue as diretrizes do repositório institucional da universidade, oferece liberdade para adaptações e evita os problemas de compatibilidade comuns em modelos que definem classes de documento próprias.
+</p>
+<div class="mb-3">
+<span class="badge bg-danger me-1">LaTeX</span>
+<span class="badge bg-secondary me-1">Escrita Acadêmica</span>
+<span class="badge bg-secondary">UFMG</span>
+</div>
+<a href="https://github.com/andre-batista/ufmg-latex" target="_blank" class="btn btn-outline-dark btn-sm mt-auto">
+<i class="bi bi-github me-1"></i>Ver no GitHub
+</a>
+</div>
+</div>
+</div>
+
+</div>
+
+:::
+
+::: {.lang-en}
+
+I maintain some open-source projects available on my [GitHub profile](https://github.com/andre-batista). Contributions and suggestions are welcome!
+
+<div class="row row-cols-1 row-cols-md-2 g-4 mt-2">
+
+<div class="col">
+<div class="card h-100 shadow-sm">
+<div class="card-body d-flex flex-column">
+<h5 class="card-title">
+<i class="bi bi-cpu me-2"></i>eispy2d
+</h5>
+<h6 class="card-subtitle mb-2 text-muted">Python Library for 2D Inverse Scattering</h6>
+<p class="card-text flex-grow-1">
+Python package for the development and comparison of algorithms that solve the two-dimensional electromagnetic inverse scattering problem. It provides standardized tools for scenario simulation, performance evaluation, and result visualization, facilitating reproducibility and comparison between different approaches.
+</p>
+<div class="mb-3">
+<span class="badge bg-primary me-1">Python</span>
+<span class="badge bg-secondary me-1">Electromagnetics</span>
+<span class="badge bg-secondary">Inverse Problems</span>
+</div>
+<a href="https://github.com/andre-batista/eispy2d" target="_blank" class="btn btn-outline-dark btn-sm mt-auto">
+<i class="bi bi-github me-1"></i>View on GitHub
+</a>
+</div>
+</div>
+</div>
+
+<div class="col">
+<div class="card h-100 shadow-sm">
+<div class="card-body d-flex flex-column">
+<h5 class="card-title">
+<i class="bi bi-file-earmark-text me-2"></i>ufmg-latex
+</h5>
+<h6 class="card-subtitle mb-2 text-muted">LaTeX Template for Academic Work at UFMG</h6>
+<p class="card-text flex-grow-1">
+An unofficial LaTeX template for undergraduate theses, dissertations, and doctoral theses at UFMG, built on LaTeX's native <code>book</code> class. It follows the guidelines of the university's institutional repository, allows freedom for customization, and avoids the compatibility issues common in templates that define their own document classes.
+</p>
+<div class="mb-3">
+<span class="badge bg-danger me-1">LaTeX</span>
+<span class="badge bg-secondary me-1">Academic Writing</span>
+<span class="badge bg-secondary">UFMG</span>
+</div>
+<a href="https://github.com/andre-batista/ufmg-latex" target="_blank" class="btn btn-outline-dark btn-sm mt-auto">
+<i class="bi bi-github me-1"></i>View on GitHub
+</a>
+</div>
+</div>
+</div>
+
+</div>
+
+:::
